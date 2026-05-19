@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+data/*.db
+build/
+sequoia_x.egg-info/
+reports/charts/
+reports/em_stock_info_cache.json
+image/
+.DS_Store
+*.egg-info/
